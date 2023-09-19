@@ -7,9 +7,11 @@ API Backend Node + Express récupérant les chunks du fichier envoyés par le cl
 ## Installation
 
 Installation des paquets node_modules
+
     npm install
 
 Créer le fichier .env
+
     # Access cors allow origin
     CORS=*
 
@@ -24,4 +26,5 @@ Créer le fichier .env
     UPLOAD_MAX_FILE_SIZE=5000000
 
 Lancer le serveur
+
     npm start

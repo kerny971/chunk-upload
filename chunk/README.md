@@ -8,7 +8,9 @@ Cette application est une adaptation du tuto [Doug Sillars sur https://api.video
 ## Installation
 
 Installation des paquets node_modules
+
     npm install
 
 Lancer le serveur
+
     npm run dev
